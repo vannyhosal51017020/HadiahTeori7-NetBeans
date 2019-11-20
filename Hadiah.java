@@ -30,7 +30,7 @@ public class Hadiah extends JFrame {
     JButton bce = new JButton("CE");
     
 public Hadiah(){
-    super("Border Layout Berkasi");
+    super("Hadiah1");
     setSize(400,300);
     setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
     setLayout(new BorderLayout());
